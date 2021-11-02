@@ -22,7 +22,7 @@ Android webview Adblocker is a simple library to block ads in webview. this code
  
  Add these codes in MainActivity.java
  
-private class MyBrowser extends WebViewClient {
+    private class MyBrowser extends WebViewClient {
         @Override
         public boolean shouldOverrideUrlLoading(WebView view, String url) {
             view.loadUrl(url);
