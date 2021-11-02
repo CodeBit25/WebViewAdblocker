@@ -47,6 +47,6 @@ private class MyBrowser extends WebViewClient {
 
 Create a assest directory in main and add host.txt file into assest directory.
 
-
+    https://github.com/CodeBit25/WebViewAdblocker/blob/master/app/src/main/assets/host.txt
 
 Now you can run your app to see if the ads are blocked. You can always use other webview features and add fetures to the webview.
