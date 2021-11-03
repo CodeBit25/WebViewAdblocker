@@ -111,7 +111,7 @@ Make a AdBlocker.java class and paste the below codes
 	
 ### Step 4
 
-Create a assest directory in main and add host.txt file into assest directory.
+Create a assests directory in main and add host.txt file into that assests directory.
 
  https://github.com/CodeBit25/WebViewAdblocker/blob/master/app/src/main/assets/host.txt
 
